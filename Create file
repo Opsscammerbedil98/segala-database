@@ -1,2 +1,12 @@
 Get hub clone 
 www.facebook/okhak.sources.php
+
+Pkg update&&upgrade
+Pkg install git
+Pkg install github clone
+Pkg install php
+Cd php
+Ls
+Readme.file
+
+
