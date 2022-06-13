@@ -1,2 +1,3 @@
 # segala-database
-Filedata.php
+Github clone
+www.kokleysoucer/gmail/.php
